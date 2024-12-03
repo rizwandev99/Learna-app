@@ -1,4 +1,4 @@
-## Hi!, Welcome to My Web Development Journey! 🌐🚀
+## Welcome to My Web Development Journey! 🌐🚀
 
 I document my **daily learnings** and progress here as I dive deeper into the world of web development.
 
