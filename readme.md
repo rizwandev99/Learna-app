@@ -1,6 +1,6 @@
 ## Welcome to My Web Development Journey! 🌐🚀
 
-I document my **daily learnings** and progress here as I dive deeper into the world of web development. Each topic is organized into its own dedicated branch. 
+I document my **daily learnings** and progress here as I dive deeper into the world of web development. 
 
 Let's **learn and grow together**! 📚✨
 
